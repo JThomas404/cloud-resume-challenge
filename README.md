@@ -20,6 +20,10 @@ The challenge is divided into multiple steps:
 - **GitHub Actions**: For CI/CD pipeline.
 - **Terraform**: For Infrastructure as Code (IaC).
 
+## Live Website
+
+The website is deployed and accessible at: [My Cloud Resume Website](http://my-cloud-resume-bucket123.s3-website-us-east-1.amazonaws.com)
+
 ## Files and Folders
 
 - `index.html`: Home page of the website.
