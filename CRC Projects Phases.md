@@ -14,8 +14,22 @@ I am thrilled to present the latest progress on my AWS Cloud Resume Challenge pr
 **Live Website:**  
 Explore the live version of the website here: [Live Website](https://lnkd.in/d2kfa-AB)
 
+**GitHub Repository:**  
+Detailed documentation of the setup and technologies used is available in my GitHub repository: [GitHub Repository](https://lnkd.in/dMmYaHVc)
+
 **Purpose:**  
 The primary goal was to create a straightforward website to demonstrate my cloud skills and proficiency with AWS services. This phase focused on cloud infrastructure and automation rather than elaborate web design.
+
+**Images from Phase I:**
+
+![HTML Code](assets/1.jpeg)  
+*Description:* The HTML code used to build the website.
+
+![GitHub Documentation](assets/2.jpeg)  
+*Description:* Documenting the project on GitHub.
+
+![S3 Bucket Creation](assets/3.jpeg)  
+*Description:* Creating the S3 bucket in the AWS Console.
 
 ---
 
@@ -30,6 +44,11 @@ The primary goal was to create a straightforward website to demonstrate my cloud
 
 **GitHub CI/CD Pipeline for Phase II:**
 - **Updated Workflow:** Integrated the Lambda function deployment into the CI/CD pipeline. This setup ensures that updates to the Lambda function are automatically deployed, facilitating seamless integration with DynamoDB.
+
+**Video Demonstration:**
+
+[Watch the Lambda function in action](assets/TestingLambdaCode.mov)  
+*Description:* Successfully testing the Lambda function code.
 
 ---
 
@@ -56,14 +75,4 @@ The most challenging part of Phase II was configuring the AWS Lambda function to
 **What I Learned:**  
 Gained practical experience with AWS Lambda and DynamoDB integration, focusing on serverless computing and real-time data management. Improved skills in debugging and configuring serverless functions.
 
----
-
-**Images from Phase I and Phase II:**
-
-![Phase I Deployment](1.jpeg)
-![Phase II Lambda Function](TestingLambdaCode.mov)
-
-**Videos:**
-
-[Testing the Lambda Code Counter](https://example.com/video-link)
----
+Feel free to connect if you have any questions or want to discuss AWS and cloud solutions further!
