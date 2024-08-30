@@ -21,15 +21,14 @@ Detailed documentation of the setup and technologies used is available in my Git
 The primary goal was to create a straightforward website to demonstrate my cloud skills and proficiency with AWS services. This phase focused on cloud infrastructure and automation rather than elaborate web design.
 
 **Images from Phase I:**
+- [HTML Code](https://github.com/JThomas404/cloud-resume-challenge/raw/main/1.jpeg)  
+  *Description:* The HTML code used to build the website.
 
-![HTML Code](cloud-resume-challenge/1.jpeg)  
-*Description:* The HTML code used to build the website.
+- [GitHub Documentation](https://github.com/JThomas404/cloud-resume-challenge/raw/main/2.jpeg)  
+  *Description:* Documenting the project on GitHub.
 
-![GitHub Documentation](cloud-resume-challenge/2.jpeg)  
-*Description:* Documenting the project on GitHub.
-
-![S3 Bucket Creation](cloud-resume-challenge/3.jpeg)
-*Description:* Creating the S3 bucket in the AWS Console.
+- [S3 Bucket Creation](https://github.com/JThomas404/cloud-resume-challenge/raw/main/3.jpeg)  
+  *Description:* Creating the S3 bucket in the AWS Console.
 
 ---
 
@@ -46,9 +45,8 @@ The primary goal was to create a straightforward website to demonstrate my cloud
 - **Updated Workflow:** Integrated the Lambda function deployment into the CI/CD pipeline. This setup ensures that updates to the Lambda function are automatically deployed, facilitating seamless integration with DynamoDB.
 
 **Video Demonstration:**
-
-[Watch the Lambda function in action](cloud-resume-challenge/TestingLambdaCode.mov)  
-*Description:* Successfully testing the Lambda function code.
+- [Watch the Lambda function in action](https://github.com/JThomas404/cloud-resume-challenge/raw/main/TestingLambdaCode.mov)  
+  *Description:* Successfully testing the Lambda function code.
 
 ---
 
