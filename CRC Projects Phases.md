@@ -60,8 +60,8 @@ Gained practical experience with AWS Lambda and DynamoDB integration, focusing o
 
 **Images from Phase I and Phase II:**
 
-![Phase I Deployment](assets/static-website.png)
-![Phase II Lambda Function](assets/lambda-dynamodb.png)
+![Phase I Deployment](1.jpeg)
+![Phase II Lambda Function](TestingLambdaCode.mov)
 
 **Videos:**
 
