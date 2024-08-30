@@ -2,6 +2,8 @@
 
 This repository documents my journey through the AWS Cloud Resume Challenge. The challenge involved building and deploying a simple static website that serves as my resume, hosted on AWS.
 
+Link to the Cloud Resume Challenge: https://cloudresumechallenge.dev/docs/the-challenge/aws/
+
 ## Overview
 
 The challenge is divided into multiple steps:
