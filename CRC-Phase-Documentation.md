@@ -22,13 +22,16 @@ The primary goal was to create a straightforward website to demonstrate my cloud
 
 **Images from Phase I:**
 
-![HTML Code](assets/1.jpeg)  
+![HTML Code](cloud-resume-challenge
+/1.jpeg)  
 *Description:* The HTML code used to build the website.
 
-![GitHub Documentation](assets/2.jpeg)  
+![GitHub Documentation](cloud-resume-challenge
+/2.jpeg)  
 *Description:* Documenting the project on GitHub.
 
-![S3 Bucket Creation](assets/3.jpeg)  
+![S3 Bucket Creation](cloud-resume-challenge
+/3.jpeg)
 *Description:* Creating the S3 bucket in the AWS Console.
 
 ---
