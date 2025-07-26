@@ -73,7 +73,9 @@ Built and deployed a full-stack serverless application using AWS cloud services,
 
 ## Live Deployment
 
-**Production Website**: [my-cloud-resume-bucket.s3-website-us-east-1.amazonaws.com](http://my-cloud-resume-bucket.s3-website-us-east-1.amazonaws.com)
+**Production Website**: [my-cloud-resume-bucket.s3-website-us-east-1.amazonaws.com](http://my-cloud-resume-bucket.s3-website-us-east-1.amazonaws.com) (Currently offline)
+
+**Advanced Version of the Cloud Resume Challenge Website (CloudForgeX)**: [https://www.jarredthomas.cloud](https://www.jarredthomas.cloud)
 
 ## Project Structure
 
