@@ -6,7 +6,7 @@ A comprehensive cloud engineering project demonstrating proficiency in AWS servi
 
 ## Professional Growth Journey
 
-**For Hiring Managers**: This project represents my initial attempt at the Cloud Resume Challenge during the early stages of my cloud learning journey. One year later, I revisited this challenge with significantly enhanced skills and created **[CloudForgeX](https://github.com/JThomas404/cloudforgex)** - an advanced implementation featuring:
+This project represents my initial attempt at the Cloud Resume Challenge during the early stages of my cloud learning journey. One year later, I revisited this challenge with significantly enhanced skills and created **[CloudForgeX](https://github.com/JThomas404/cloudforgex)** - an advanced implementation featuring:
 
 - **AI-Powered Assistant (EVE)** using AWS Bedrock with Claude Instant
 - **Infrastructure as Code** with modular Terraform architecture

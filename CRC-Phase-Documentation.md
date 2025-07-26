@@ -256,7 +256,7 @@ response = dynamodb.update_item(
 - Add CloudWatch dashboards for real-time monitoring
 - Integrate AWS QuickSight for business intelligence
 
-**Phase IV: Automation & DevOps** *(Completed in CloudForgeX)*
+**Phase IV: Automation & DevOps** _(Completed in CloudForgeX)_
 
 - ✅ Implemented GitHub Actions for CI/CD automation
 - ✅ Added Terraform for Infrastructure as Code
@@ -276,28 +276,30 @@ This Cloud Resume Challenge project served as the foundation for my cloud engine
 
 ### Architectural Evolution Comparison
 
-| Aspect | Initial Implementation (This Project) | Advanced Implementation (CloudForgeX) |
-|--------|--------------------------------------|---------------------------------------|
-| **AI Integration** | None | AWS Bedrock with Claude Instant AI assistant (EVE) |
-| **Infrastructure** | Manual AWS Console configuration | Modular Terraform with 15+ reusable modules |
-| **CI/CD Pipeline** | Manual deployment process | GitHub Actions with automated testing, security scanning |
-| **Containerisation** | Not implemented | Docker + Kubernetes deployment alongside serverless |
-| **Security** | Basic S3 bucket policies | SSM Parameter Store, comprehensive IAM, security scanning |
-| **Monitoring** | Basic CloudWatch logs | Custom dashboards, distributed tracing, performance metrics |
-| **Architecture** | Single-region deployment | Multi-AZ with disaster recovery and business continuity |
-| **Documentation** | Basic project documentation | Enterprise-grade architecture documentation with diagrams |
-| **Cost Management** | Basic cost awareness | Detailed cost analysis with optimisation strategies |
-| **Testing** | Manual testing | Automated testing pipeline with validation |
+| Aspect               | Initial Implementation (This Project) | Advanced Implementation (CloudForgeX)                       |
+| -------------------- | ------------------------------------- | ----------------------------------------------------------- |
+| **AI Integration**   | None                                  | AWS Bedrock with Claude Instant AI assistant (EVE)          |
+| **Infrastructure**   | Manual AWS Console configuration      | Modular Terraform with 15+ reusable modules                 |
+| **CI/CD Pipeline**   | Manual deployment process             | GitHub Actions with automated testing, security scanning    |
+| **Containerisation** | Not implemented                       | Docker + Kubernetes deployment alongside serverless         |
+| **Security**         | Basic S3 bucket policies              | SSM Parameter Store, comprehensive IAM, security scanning   |
+| **Monitoring**       | Basic CloudWatch logs                 | Custom dashboards, distributed tracing, performance metrics |
+| **Architecture**     | Single-region deployment              | Multi-AZ with disaster recovery and business continuity     |
+| **Documentation**    | Basic project documentation           | Enterprise-grade architecture documentation with diagrams   |
+| **Cost Management**  | Basic cost awareness                  | Detailed cost analysis with optimisation strategies         |
+| **Testing**          | Manual testing                        | Automated testing pipeline with validation                  |
 
 ### Technical Skills Progression
 
 **Initial Project (Foundation Level)**
+
 - Basic AWS service configuration
 - Simple serverless architecture
 - Manual deployment processes
 - Fundamental security practices
 
 **CloudForgeX Project (Enterprise Level)**
+
 - Advanced AI service integration (AWS Bedrock)
 - Infrastructure as Code with Terraform modules
 - Enterprise CI/CD with automated testing
@@ -319,14 +321,14 @@ The progression from this initial project to CloudForgeX demonstrates:
 
 ### Business Impact Comparison
 
-| Metric | Initial Project | CloudForgeX | Improvement |
-|--------|----------------|-------------|-------------|
-| Deployment Time | 2-3 hours manual | 15 minutes automated | 88% reduction |
-| Security Posture | Basic | Enterprise-grade | 300% improvement |
-| Scalability | Limited | Auto-scaling + K8s | Unlimited scaling |
-| Monitoring | Basic logs | Comprehensive observability | 500% enhancement |
-| Cost Efficiency | Good | Optimised with analysis | 25% additional savings |
-| Reliability | 99.9% | 99.95% with DR | +0.05% improvement |
+| Metric           | Initial Project  | CloudForgeX                 | Improvement            |
+| ---------------- | ---------------- | --------------------------- | ---------------------- |
+| Deployment Time  | 2-3 hours manual | 15 minutes automated        | 88% reduction          |
+| Security Posture | Basic            | Enterprise-grade            | 300% improvement       |
+| Scalability      | Limited          | Auto-scaling + K8s          | Unlimited scaling      |
+| Monitoring       | Basic logs       | Comprehensive observability | 500% enhancement       |
+| Cost Efficiency  | Good             | Optimised with analysis     | 25% additional savings |
+| Reliability      | 99.9%            | 99.95% with DR              | +0.05% improvement     |
 
 ### Professional Development Reflection
 
@@ -337,7 +339,7 @@ This journey from a foundational cloud project to an enterprise-grade architectu
 - **Industry Alignment**: Adoption of enterprise patterns and practices used in production environments
 - **Innovation Mindset**: Integration of emerging technologies like AI and modern deployment strategies
 
-**For Hiring Managers**: This progression demonstrates not just technical skill acquisition, but the ability to think strategically about architecture, security, and business impact - essential qualities for senior cloud engineering roles.
+This progression demonstrates not just technical skill acquisition, but the ability to think strategically about architecture, security, and business impact - essential qualities for senior cloud engineering roles.
 
 **CloudForgeX Repository**: [https://github.com/JThomas404/cloudforgex](https://github.com/JThomas404/cloudforgex)
 
