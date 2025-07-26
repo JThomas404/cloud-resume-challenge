@@ -111,7 +111,7 @@ cloud-resume-challenge/
 
 - **Email**: jarredthomas101@gmail.com
 - **LinkedIn**: [linkedin.com/in/jarred-thomas](https://www.linkedin.com/in/jarred-thomas)
-- **Portfolio**: [Live Project Demo](http://my-cloud-resume-bucket.s3-website-us-east-1.amazonaws.com) (Currently offline)
+- **Portfolio**: [Project Demo](http://my-cloud-resume-bucket.s3-website-us-east-1.amazonaws.com) (Currently offline)
 - **Advanced Implementation**: [CloudForgeX](https://github.com/JThomas404/cloudforgex) - Enterprise-grade cloud architecture (Currently online)
 
 ---
